@@ -12,6 +12,6 @@
     "cors": "^2.8.5",
     "dotenv": "^16.3.1",
     "@google/generative-ai": "^0.8.0",
-    "@google-cloud/text-to-speech": "^4.3.0"
+    "@google-cloud/text-to-speech": "^3.6.0"
   }
 }
